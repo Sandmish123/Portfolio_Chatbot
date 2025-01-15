@@ -48,24 +48,6 @@ Welcome to the interactive portfolio of **Sandeep Mishra**, a Software Engineer 
 
 4. **Sensitive Information Filtering**: If the user asks for personal information (e.g., age, address), the chatbot will politely decline to provide any sensitive data, focusing solely on professional details.
 
-## Installation
-
-To run the portfolio locally, follow these steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/Sandmish123/portfolio-chatbot.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd portfolio-chatbot
-    ```
-
-3. **Open the `index.html` file** in your browser to view the portfolio.
-
-4. **Start interacting with the chatbot** by clicking on the chat button at the bottom right.
-
 ## Contact
 
 For more details, feedback, or inquiries, you can reach out via the **Contact** section of the portfolio or directly through the following channels:
